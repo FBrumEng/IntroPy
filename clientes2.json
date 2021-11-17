@@ -1,0 +1,14 @@
+{
+  "cliente": [
+    {
+      "nome": "Claudio",
+      "telefone": "31777777777",
+      "email": "claudio@iterasys.com.br"
+    },
+    {
+      "nome": "Clarissa",
+      "telefone": "41666666666",
+      "email": "clarissa@iterasys.com.br"
+    }
+  ]
+}
